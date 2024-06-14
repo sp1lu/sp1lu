@@ -12,7 +12,7 @@
 * **[Website](https://daviderivolta.com)**
 * **[Dribbble](https://dribbble.com/spilu)**
 * **[Behance](https://behance.net/spilu)**
-* **[LinkedIn](https://linkedin.com/in/daviderivolta)**
+* **[LinkedIn](https://linkedin.com/in/davide-rivolta)**
 
 #### And now boring things abot me...
 ```javascript
