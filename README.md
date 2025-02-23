@@ -14,14 +14,14 @@
 * **[Behance](https://behance.net/spilu)**
 * **[LinkedIn](https://linkedin.com/in/davide-rivolta)**
 
-#### And now boring things abot me...
+#### And now boring things about me...
 ```javascript
 const spilu = {
   pronouns: 'He' | 'him',
   backend: ['Nodejs'],
-  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components'],
+  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components', Next.Js],
   database: ['MongoDB', 'Firebase'],
-  libraries: ['Cesium Js', 'Leaflet', 'Maplibre', 'Highcharts', 'D3.js', 'Bootstrap', 'Tailwind']
+  libraries: ['Maplibre', Leaflet, 'Cesium Js', 'Highcharts', 'D3.js', 'Bootstrap', 'Tailwind']
 }
 ```
 As my father says: *I do things that go online*.
