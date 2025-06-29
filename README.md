@@ -19,9 +19,9 @@
 const spilu = {
   pronouns: 'He' | 'him',
   backend: ['Nodejs'],
-  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components', Next.Js],
-  database: ['MongoDB', 'Firebase'],
-  libraries: ['Maplibre', Leaflet, 'Cesium Js', 'Highcharts', 'D3.js', 'Bootstrap', 'Tailwind']
+  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components', 'Next.Js'],
+  database: ['Firebase'],
+  libraries: ['Maplibre', 'Leaflet', 'Cesium Js', 'Highcharts', 'D3.js', 'Bootstrap', 'Tailwind']
 }
 ```
 As my father says: *I do things that go online*.
