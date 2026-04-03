@@ -21,7 +21,7 @@ const spilu = {
   backend: ['Nodejs'],
   frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components', 'Next.Js'],
   database: ['Firebase'],
-  libraries: ['Maplibre', 'Leaflet', 'Cesium Js', 'Highcharts', 'D3.js', 'Bootstrap', 'Tailwind']
+  libraries: ['Maplibre', 'Leaflet', 'Cesium Js', 'Highcharts', 'Chart.js', 'Plotly', 'D3.js', 'Bootstrap', 'Tailwind']
 }
 ```
 As my father says: *I do things that go online*.
