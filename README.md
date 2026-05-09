@@ -19,7 +19,7 @@
 const spilu = {
   pronouns: 'He' | 'him',
   backend: ['Nodejs'],
-  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Web Components', 'Next.Js'],
+  frontend: ['HTML', 'Javascript', 'TypeScript', 'CSS', 'SCSS', 'Angular', 'React', 'Vue', 'Web Components', 'Next.Js'],
   database: ['Firebase'],
   libraries: ['Maplibre', 'Leaflet', 'Cesium Js', 'Highcharts', 'Chart.js', 'Plotly', 'D3.js', 'Bootstrap', 'Tailwind']
 }
